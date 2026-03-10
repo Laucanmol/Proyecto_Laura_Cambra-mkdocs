@@ -1,7 +1,7 @@
 site_name: Documentación de mi proyecto
-
+site_url: https://laucanmol.github.io/Proyecto_Laura_Cambra-mkdocs/
 theme: 
-  name: mkdocs
+  name: material
   Author : Laura Cambra Molina
   Content : Guia rapida mkdocs
 
