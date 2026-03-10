@@ -1,0 +1,15 @@
+site_name: Documentación de mi proyecto
+
+theme: 
+  name: mkdocs
+  Author : Laura Cambra Molina
+  Content : Guia rapida mkdocs
+
+
+
+
+nav:
+  - Inicio: index.md
+  - Introducción: introduccion.md
+  - Instalación: instalacion.md
+  - Uso del proyecto: uso.md
